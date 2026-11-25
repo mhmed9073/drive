@@ -1,0 +1,12 @@
+{
+  "name": "mon-drive",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Drive personnel auto-heberge : partage un dossier (ou une cle USB) dans le navigateur",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.15"
+  }
+}
